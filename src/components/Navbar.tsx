@@ -7,6 +7,7 @@ import {
   ProductItem,
 } from "@/components/ui/navbar-menu";
 import { cn } from "@/utils/cn";
+import Link from "next/link";
 
 // export function NavbarDemo() {
 //   return (

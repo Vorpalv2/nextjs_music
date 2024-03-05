@@ -45,7 +45,7 @@ const Testimonial = () => {
         <div className="w-full max-w-6xl">
           <InfiniteMovingCards
             direction={"right"}
-            speed={"normal"}
+            speed={"slow"}
             items={testimonials}
           />
         </div>

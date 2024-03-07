@@ -8,7 +8,7 @@ const page = () => {
     <div>
       <div>
         <form
-          className="h-[35rem] relative z-10 flex justify-center items-center flex-grow flex-col"
+          className="h-[35rem] flex justify-center items-center flex-grow flex-col"
           action="/contact"
           method="post"
         >
